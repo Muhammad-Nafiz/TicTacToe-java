@@ -1,1 +1,3 @@
 # TicTacToe-java
+Use a 2D array to make a Tic Tac Toe game — and practice using conditionals, loops, and functions! This is a challenging project for Java ...
+Tic-Tac-Toe Game in Java · Both the players choose either X or O to mark their cells. · There will be a 3×3 grid with numbers assigned to each which will resemble the victory of one player!
